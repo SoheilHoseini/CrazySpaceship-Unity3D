@@ -1,0 +1,1521 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 8074 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/My Projects/3D Games/Crazy Spaceship
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63519
+Successfully changed project path to: E:/My Projects/3D Games/Crazy Spaceship
+E:/My Projects/3D Games/Crazy Spaceship
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 26.10 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/My Projects/3D Games/Crazy Spaceship/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 930MX (ID=0x134e)
+    Vendor:   
+    VRAM:     2010 MB
+    Driver:   27.21.14.5167
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56868
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002594 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 26.16 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.279 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000597 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.982 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.0 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1557.
+Total: 2.460100 ms (FindLiveObjects: 0.175900 ms CreateObjectMapping: 0.054900 ms MarkObjects: 2.149100 ms  DeleteObjects: 0.078900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/CollisionHandler.cs
+  artifactKey: Guid(e2243155c2343514b9412c26e0355de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CollisionHandler.cs using Guid(e2243155c2343514b9412c26e0355de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '774b5cb82abd3fd076e6dbe866e1b977') in 0.108749 seconds
+  Import took 0.110623 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.137371 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.850 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.9 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1560.
+Total: 2.223000 ms (FindLiveObjects: 0.227900 ms CreateObjectMapping: 0.071000 ms MarkObjects: 1.829700 ms  DeleteObjects: 0.093200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000652 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.873 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.0 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1563.
+Total: 1.800800 ms (FindLiveObjects: 0.147600 ms CreateObjectMapping: 0.030200 ms MarkObjects: 1.566400 ms  DeleteObjects: 0.054900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000621 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.861 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.0 MB.
+System memory in use after: 57.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1566.
+Total: 2.122600 ms (FindLiveObjects: 0.261500 ms CreateObjectMapping: 0.085600 ms MarkObjects: 1.724800 ms  DeleteObjects: 0.049100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1789.156932 seconds.
+  path: Assets/Prefabs/Launch Pad.prefab
+  artifactKey: Guid(7c74ec38309c21645850b3bc55d3258d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Launch Pad.prefab using Guid(7c74ec38309c21645850b3bc55d3258d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5d767c93487aba620fbd23501139787') in 0.468848 seconds
+  Import took 0.473037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(04697100732fa3049b3474f4f280f2db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(04697100732fa3049b3474f4f280f2db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75eb9e60ae20eca10b66cc4f160bb0ec') in 0.154387 seconds
+  Import took 0.156382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.074862 seconds.
+  path: Assets/Prefabs/Spaceship 1.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship 1.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0e76fd8cd8c38ed8a373b1745c6eec6') in 0.010080 seconds
+  Import took 0.036268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.056917 seconds.
+  path: Assets/Prefabs/Spaceship2.prefab
+  artifactKey: Guid(04697100732fa3049b3474f4f280f2db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship2.prefab using Guid(04697100732fa3049b3474f4f280f2db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ca8f7adc6449d6e11c39e3ab3d5fda9') in 0.008263 seconds
+  Import took 0.073338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.406954 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5af18608c05479be06b10e182e43950d') in 0.010275 seconds
+  Import took 0.020682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010582 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5af18608c05479be06b10e182e43950d') in 0.010801 seconds
+  Import took 0.014273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 89.990571 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(70e3a49ce132ed34490942626828ec0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(70e3a49ce132ed34490942626828ec0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7aef8ed50f81c0e25b139669fb0e447') in 0.002513 seconds
+  Import took 0.141417 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000698 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.887 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.2 MB.
+System memory in use after: 60.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1578.
+Total: 1.958900 ms (FindLiveObjects: 0.148000 ms CreateObjectMapping: 0.040400 ms MarkObjects: 1.714900 ms  DeleteObjects: 0.054200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 496.600000 seconds.
+  path: Assets/Prefabs/Intergalactic_Spaceship.obj
+  artifactKey: Guid(05b7694f85018594d96ca43f1f28d814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Intergalactic_Spaceship.obj using Guid(05b7694f85018594d96ca43f1f28d814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f0c96598f50de3509f0b4d40e7a46f0') in 0.417362 seconds
+  Import took 0.496006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.243565 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b7e11980c70f9cb150bfe4b8b88a36d') in 0.044408 seconds
+  Import took 0.136105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.810026 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63ba5731156203979a4dad4f19f90cc8') in 0.010293 seconds
+  Import took 0.074708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 335.514894 seconds.
+  path: Assets/Prefabs/space_shuttle_obj_exp(1).obj
+  artifactKey: Guid(17886674c8776db4db8cc75bb57e0ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/space_shuttle_obj_exp(1).obj using Guid(17886674c8776db4db8cc75bb57e0ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcf05823c368732bf490bb675910c847') in 0.063384 seconds
+  Import took 0.114005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 106.222217 seconds.
+  path: Assets/Materials/uploads_files_869754_space_shuttle.blend
+  artifactKey: Guid(9e311b05e263b6748a8c801b09363bba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/uploads_files_869754_space_shuttle.blend using Guid(9e311b05e263b6748a8c801b09363bba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c171e49ccfa099b710221f0c9679e650') in 0.103813 seconds
+  Import took 0.129060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7808.466821 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2bdf084faeceb8962b513444dff8d69') in 0.256843 seconds
+  Import took 0.275884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.933786 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d62654468a01e1b32dbd0cc8251fa28') in 0.010845 seconds
+  Import took 0.013054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.215797 seconds.
+  path: Assets/Prefabs/basic_pyramid.obj
+  artifactKey: Guid(b28fc5f10c738ce40ac4fe010a6b441e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/basic_pyramid.obj using Guid(b28fc5f10c738ce40ac4fe010a6b441e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aefde945327c1a06420260008afc21d6') in 0.066318 seconds
+  Import took 0.068578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.736771 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d25376b0f36900274ac502149d1fdfa') in 0.011405 seconds
+  Import took 0.013872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.134075 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12366b2136a639f71077dc7062ff3f13') in 0.011112 seconds
+  Import took 0.077032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.803850 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da37418322e982d6d0f579ef37d116bc') in 0.010899 seconds
+  Import took 0.013519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.354667 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91dbd6dc3ff95495ab05a673252bb23c') in 0.228056 seconds
+  Import took 0.722496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.703253 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2485cb058c0f5d459a9f4925ab34ad2b') in 0.011909 seconds
+  Import took 0.080028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.473568 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb9b0c0e439c93bfe7b6af84caef9d58') in 0.010692 seconds
+  Import took 0.013191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.002940 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '682b6f0d9c96f59e053382ce66c29df8') in 0.011071 seconds
+  Import took 0.013391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.048634 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca93b8035b4f21debfc64b7769267a5a') in 0.010807 seconds
+  Import took 0.066568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.857913 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7af2dcb780da31c1011a1f8ca6e7dbe3') in 0.210119 seconds
+  Import took 0.238108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.478798 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4fd14fa450e9bf5b151d5e83d690461') in 0.012425 seconds
+  Import took 0.015103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.316923 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edeebd866b3c1a4093112cbb0fe4413d') in 0.011596 seconds
+  Import took 0.052819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.574524 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77ce6baf3c819df0a75d7f48e35a9b8d') in 0.009116 seconds
+  Import took 0.011676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.015850 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d1ffa81940c57d5d1ee0b3b6b748ee4') in 0.010450 seconds
+  Import took 0.012653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.777511 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64189f6e20acf7e27f53617db2f6cf2d') in 0.010641 seconds
+  Import took 0.014586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.741876 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '904d3581373e5d5ea2616265251bb5ea') in 0.011276 seconds
+  Import took 0.017995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.161310 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80dab7692329ebbcb4432dc48de34570') in 0.119030 seconds
+  Import took 0.150419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.656623 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e30fc47e65019096b5aba80088faf54b') in 0.014738 seconds
+  Import took 0.064184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.801985 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9aaf2c4fdc427f42c9c8c16bfb4c91b') in 0.070844 seconds
+  Import took 0.073308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.243483 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd97094e1442562978a522363ca2ad2e8') in 0.011848 seconds
+  Import took 0.014019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.562466 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc75896172d8fbd03b2c6f487ff64e1e') in 0.010658 seconds
+  Import took 0.014496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.643282 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16b820b1f5fbcafaab8d2b7b314fe3f0') in 0.020771 seconds
+  Import took 0.023276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.103163 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '534950b46f16985cbe5136e68ba3e341') in 0.020966 seconds
+  Import took 0.024053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.579758 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b97b8a2f5dccaf2e57489a1336e5747d') in 0.010133 seconds
+  Import took 0.012927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.610760 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c91ad47a2bdc801252cbcccdb61d40c6') in 0.011125 seconds
+  Import took 0.106043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.272618 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d5ca4c95fbbb2faf8f097e5ed448578') in 0.042270 seconds
+  Import took 0.044597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.275797 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f35e00c0c986c2716d594520708ed68d') in 0.102520 seconds
+  Import took 0.114157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.709165 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7168156277375106b9be3b405080097b') in 0.110624 seconds
+  Import took 0.158963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.653294 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0d9d161be801c394b250a0a3b13af08') in 0.121398 seconds
+  Import took 0.123917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.329713 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef25b1dd557dcbd655de32d694f1999a') in 0.010196 seconds
+  Import took 0.013386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.909758 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '266b55a77bbb1b17d271336b7bdc5168') in 0.010734 seconds
+  Import took 0.192457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.768870 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b3c5a09c63640d7c56fbd0a95c66a0c') in 0.918221 seconds
+  Import took 0.920464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.149687 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cdab227aed346b32c86d76aa1e13223') in 0.010051 seconds
+  Import took 0.069824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.143334 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40bdd06b0cd1495898c7a816b9c116d2') in 0.069112 seconds
+  Import took 0.071625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.908376 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53092dcfc0f3a1ea4b22942107f3aafb') in 0.008794 seconds
+  Import took 0.011115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.658974 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '409ae6d01fbdb702c46ec90446186475') in 0.011416 seconds
+  Import took 0.013751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.199275 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb551df4b14a3983d9a9caac71b34835') in 0.009700 seconds
+  Import took 0.012190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.211587 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8d7755d101f08351d49b8724e28cad3') in 0.014912 seconds
+  Import took 0.017189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.073197 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5fec4406c76baf7116ca19c30d17c97') in 0.010441 seconds
+  Import took 0.032722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.575302 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67689144a17687a74c60517fcc97a908') in 0.118269 seconds
+  Import took 0.121185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.844260 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f07db1a1ea0914a575e4eeb1ad0b56e5') in 0.010072 seconds
+  Import took 0.012869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.371812 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '692887eec7a8cb4928d1ef9b4e8be826') in 0.009884 seconds
+  Import took 0.012215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.182908 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3817ef23435c8392d06f5e5d54cbde2') in 0.011451 seconds
+  Import took 0.013820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.697600 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0963f47dc4ef435bc1532e79d3956b96') in 0.010331 seconds
+  Import took 0.014004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.116286 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd035763774ccd5da234818d3a5c139af') in 0.010912 seconds
+  Import took 0.202034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.539640 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40caa78381f2e6944801fb3d9f374160') in 0.009587 seconds
+  Import took 0.011973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.400436 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbaf680c52c7d5033de4c63bdc8a0b7a') in 0.009817 seconds
+  Import took 0.012133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.772471 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05cecfb6c5cf673d471790be5617d7d7') in 0.010283 seconds
+  Import took 0.045997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.404113 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '155a19c76ff1719e527d9c26e8491daa') in 0.012885 seconds
+  Import took 0.015949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.339520 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbf772858cdf012878e2f0c580143eb3') in 0.094196 seconds
+  Import took 0.114244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.413438 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcfcf9ab12ea93d2eeb450bce83669e9') in 0.042046 seconds
+  Import took 0.044692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.847756 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '218580bf846d3942981a48ef4e76bfe5') in 0.009929 seconds
+  Import took 0.071982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.627815 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9408502083d054b7e70795019caf71e') in 0.244446 seconds
+  Import took 0.247420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.250027 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e032acb6ea13ef9203b93ac828eb70a6') in 0.010594 seconds
+  Import took 0.013383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.475124 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dad4a300e4401a38acaac9397fb220b9') in 0.041103 seconds
+  Import took 0.043769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.991894 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87457456fd75cdc50c04389fe47dfb07') in 0.041669 seconds
+  Import took 0.044189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.231291 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54ff63e1588a7c1d6304aeb5dda90ffc') in 0.124500 seconds
+  Import took 0.203676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.446959 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2863513e884ad693f217ae6dd73f13cf') in 0.011253 seconds
+  Import took 0.014235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.831691 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b3bdc8e527c3573b80d2a66f9106ffe') in 0.009679 seconds
+  Import took 0.012327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.005288 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7c27405114306b50ff0951886ef0207') in 0.028570 seconds
+  Import took 0.031078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.846580 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74a6e901507f36b0514d6c356c2ef830') in 0.109985 seconds
+  Import took 0.112443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.562911 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '009e2ff9514e1a414f78d4f47f0b3246') in 0.114827 seconds
+  Import took 0.117300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.192253 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b88f62d1366ab5797739b7101f5ec165') in 0.012698 seconds
+  Import took 0.015462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.750407 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '842afc4b3040d3d7945d738076870b84') in 0.012091 seconds
+  Import took 0.014608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.069286 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c2dafe06f43021590a8c4a9c08ac97f') in 0.018366 seconds
+  Import took 0.021742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.873679 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '988715b5a22b207e43a1b7fa4c321f0f') in 0.010758 seconds
+  Import took 0.013309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.950897 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '271351da4a28b6af7028954edd6598de') in 0.010820 seconds
+  Import took 0.013223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.296876 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aae758fff0cfa3cbf115ced920771cf') in 0.009380 seconds
+  Import took 0.012864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.413321 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3a161996e421ffd1d341cc7d4177828') in 0.010362 seconds
+  Import took 0.013178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.389288 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '660fd7bb8ae6082ca4cd82457f9a522e') in 0.108987 seconds
+  Import took 0.111399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.483687 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae5e89476bd12e1fefe0742c74926258') in 0.010126 seconds
+  Import took 0.013529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.184574 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07fc2785314c0f37fac06b00aeeadbb4') in 0.009866 seconds
+  Import took 0.043926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.751976 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5967c364427c1f7ffb78dd331b31402') in 0.010492 seconds
+  Import took 0.013033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.343681 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e58fb355f34c097b945fe66e1afd6c38') in 0.011946 seconds
+  Import took 0.014683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.460781 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8d675bdb78c1b60c6cd268535c10604') in 0.010182 seconds
+  Import took 0.012466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.219306 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '881a561354d9f79987e83c532f2fe824') in 0.137475 seconds
+  Import took 0.139904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.736796 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ac114944406760df3e2d74a72c3009b') in 0.011317 seconds
+  Import took 0.014111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.598002 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a402959db1975dd8a211a7a6cc49909a') in 0.075547 seconds
+  Import took 0.078195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.961913 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c1440a7624fa79de2d67e42fd49cf01') in 0.010687 seconds
+  Import took 0.013272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.694117 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16df14b5c8cc03511ac89333f32ee804') in 0.009024 seconds
+  Import took 0.011389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.005073 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c80a578758026122e07e4e384682f1ff') in 0.114263 seconds
+  Import took 0.117224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.134035 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53ac71f6c525e35d356401bc63c6ab4a') in 0.009758 seconds
+  Import took 0.013300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.401778 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a3299955fa04e255b553d4afc9b0a7b') in 0.010575 seconds
+  Import took 0.014200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.965654 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c70e2bec87557663ea6d31e4cd3c4309') in 0.010486 seconds
+  Import took 0.013088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.614608 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '889ca7d3a7edb1543c079b0817ab6d18') in 0.010649 seconds
+  Import took 0.013510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.292213 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91f1ff97a10045737d04d937323caace') in 0.010277 seconds
+  Import took 0.012587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.135709 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c5e995303da2bd227ed3a8c136b3001') in 0.109591 seconds
+  Import took 0.112166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.300608 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95d86024514208443aaa793e0bdf9560') in 0.010291 seconds
+  Import took 0.013180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.273249 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbc25c464241f8ad8cd3f6ec51b862d6') in 0.110830 seconds
+  Import took 0.113538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.007614 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '427d88c39037b9245b6063bf783f0af1') in 0.010512 seconds
+  Import took 0.012925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.929215 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55a729ba848224736dfdf792535ab9f1') in 0.108274 seconds
+  Import took 0.110570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.277346 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3414bb82f95426a4942e8d214c2767b8') in 0.238603 seconds
+  Import took 0.241798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014675 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ea7e20d88488ddaec42c8740eaee55c') in 0.509032 seconds
+  Import took 0.511728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.412686 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeafa26110501f8a3f6d35b6a3305878') in 0.011310 seconds
+  Import took 0.013715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.879817 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cdc31ac240465c306533dbcae594617') in 0.077679 seconds
+  Import took 0.129582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.713386 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2476f5775a0370276ca317a8f49bb44b') in 0.168244 seconds
+  Import took 0.170651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.195391 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b118c4418364589d5795fd07359aa21f') in 0.009786 seconds
+  Import took 0.012907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.152158 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4d7f035796e9278a27fe54bfeb5a435') in 0.011268 seconds
+  Import took 0.013601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.001691 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6ea23575d3319a526c6a375ce801bc2') in 0.116132 seconds
+  Import took 0.118769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.903693 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d7bfcbb879a109f91e63f1247ed1a37') in 0.010567 seconds
+  Import took 0.012873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.486013 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2ad9c9636902bf4e15cbaca98796835') in 0.230898 seconds
+  Import took 0.233249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.423955 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4c6c953a780d8b86ff2818ae59807a6') in 0.023516 seconds
+  Import took 0.025908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.801651 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f58e3786225a1c0c32957fbe536749e') in 0.010661 seconds
+  Import took 0.012970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.609355 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92d53a54ed833986913bd67c41258251') in 0.027138 seconds
+  Import took 0.057413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.044131 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b0f5b01b190fe91ddb7e27e4cb5d44c') in 0.009826 seconds
+  Import took 0.013366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.186569 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ee5a58ea1442622e605e8c203e9ec3b') in 0.009438 seconds
+  Import took 0.012117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.802814 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69737dd28de2c380646f8b0f7eed9e3a') in 0.009111 seconds
+  Import took 0.011475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.230597 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f628e47f8bfba34f4c0cd7552ae17b7a') in 0.010802 seconds
+  Import took 0.013394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.490938 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '595e64311ae683ac91c8bcf913182df6') in 0.010709 seconds
+  Import took 0.013559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.043894 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f488c9ead0943e46cd37703dd9eed711') in 0.011207 seconds
+  Import took 0.013748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.579445 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f10e4193e54d7f7b4e393a41fc93fea') in 0.010096 seconds
+  Import took 0.012816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.625681 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5a2e5c984070b36184297ba3f9e36ab') in 0.010972 seconds
+  Import took 0.013623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.116290 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '203e71efcbfa33cce0c8727cfb9d3e58') in 0.011178 seconds
+  Import took 0.013614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.041284 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba96b8d8bbae92bd92d888d9310390a1') in 0.203150 seconds
+  Import took 0.205558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.417905 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9af23c9dc00a4b71639a163dbe38ef54') in 0.010340 seconds
+  Import took 0.012694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.425073 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29e177679128da3b09115cfd788ec06e') in 0.010337 seconds
+  Import took 0.012569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.612957 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ee8fafc835a81ec4a770eca39fbcbda') in 0.010224 seconds
+  Import took 0.012768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.593447 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ecc6df37ac905d5d0771b19806c3d0b') in 0.011088 seconds
+  Import took 0.013335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.635518 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '995ce643b8f6dd69fb7498df5560d881') in 0.011398 seconds
+  Import took 0.013879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.699164 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b97d117df07d02ce6a22c0874cf0ede') in 0.123335 seconds
+  Import took 0.125737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.111137 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a90fe6578ee7f857f8b86b778315220c') in 0.134022 seconds
+  Import took 0.137555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.304413 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf30a2910e092ef713393250cc4ce741') in 0.010738 seconds
+  Import took 0.013558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.218490 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3b18565b7027344b5728bf8ce1bf4b6') in 0.010711 seconds
+  Import took 0.013205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.305229 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84224333016c88ca91398a39c4b460bb') in 0.009535 seconds
+  Import took 0.012470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.503981 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ed9f69be3307433898dc4cf6ded12f2') in 0.012487 seconds
+  Import took 0.016083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.091634 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9453b327ffd31dec5afc949c81101c9f') in 0.011536 seconds
+  Import took 0.014065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.617817 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '474f7374c55d4cc260916c4e61a87bdd') in 0.010928 seconds
+  Import took 0.040322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.246450 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb174fe5ad2e0dedf2ef13f1ef411c6e') in 0.010532 seconds
+  Import took 0.013069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.187623 seconds.
+  path: Assets/Prefabs/Spaceship.prefab
+  artifactKey: Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Spaceship.prefab using Guid(91bd350c53c38c8408d6efb743ffa9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79261b8ef9d4b4fecc9eddc0c92ffceb') in 0.034261 seconds
+  Import took 0.038161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 459.701319 seconds.
+  path: Assets/Materials/Ground.mat
+  artifactKey: Guid(1ba55b1c44880434ea2554cffd720897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Ground.mat using Guid(1ba55b1c44880434ea2554cffd720897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e91786c79d521cd32f575cfc9593825') in 0.279544 seconds
+  Import took 0.282885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Materials/Launch Pad.mat
+  artifactKey: Guid(e575b58a4a724834eb00b2786e9dbf26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Launch Pad.mat using Guid(e575b58a4a724834eb00b2786e9dbf26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '241da45b0ff4f67b21db297c61580ef4') in 0.008010 seconds
+  Import took 0.010372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.709725 seconds.
+  path: Assets/Materials/Spaceship.mat
+  artifactKey: Guid(b8281dfe2c7f8cf4b94274e8c2c748fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Spaceship.mat using Guid(b8281dfe2c7f8cf4b94274e8c2c748fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beb9bc5f8b43912194d1849c7044617e') in 0.008847 seconds
+  Import took 0.012224 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000680 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.986 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.9 MB.
+System memory in use after: 60.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1618.
+Total: 2.164500 ms (FindLiveObjects: 0.213500 ms CreateObjectMapping: 0.062600 ms MarkObjects: 1.829300 ms  DeleteObjects: 0.058100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003561 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.550 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.9 MB.
+System memory in use after: 60.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1621.
+Total: 2.439000 ms (FindLiveObjects: 0.256100 ms CreateObjectMapping: 0.060000 ms MarkObjects: 2.057900 ms  DeleteObjects: 0.062800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1090.655161 seconds.
+  path: Assets/Particles
+  artifactKey: Guid(b515825384481e148a296738bc831b05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Particles using Guid(b515825384481e148a296738bc831b05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e07f18ff2fa603db6985591c9453692') in 0.004318 seconds
+  Import took 0.048400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.281549 seconds.
+  path: Assets/Explosion Particles.prefab
+  artifactKey: Guid(ab79a37535b979f48b6de56e3a0a5cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Explosion Particles.prefab using Guid(ab79a37535b979f48b6de56e3a0a5cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cee6c67504873f5dd22041f9733fae25') in 0.024643 seconds
+  Import took 0.027251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Rocket Jet Particles.prefab
+  artifactKey: Guid(a3553fd250eb92d4091bebde350c6739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rocket Jet Particles.prefab using Guid(a3553fd250eb92d4091bebde350c6739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98d7635dac526eb96c649b084cabfa61') in 0.003246 seconds
+  Import took 0.005183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Side Thruster Particles.prefab
+  artifactKey: Guid(d4b06ebeeaf0ac044aeed997d98443c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Side Thruster Particles.prefab using Guid(d4b06ebeeaf0ac044aeed997d98443c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66bef341f405044758e869bf0085df75') in 0.003518 seconds
+  Import took 0.005575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Success Particles.prefab
+  artifactKey: Guid(62198a3a5dbb64a4f9e1618929224faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Success Particles.prefab using Guid(62198a3a5dbb64a4f9e1618929224faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea0a41c060be74f6626849ecfbf97cf4') in 0.003277 seconds
+  Import took 0.005271 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001386 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.014 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.9 MB.
+System memory in use after: 61.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1624.
+Total: 2.894300 ms (FindLiveObjects: 0.442600 ms CreateObjectMapping: 0.123700 ms MarkObjects: 2.265800 ms  DeleteObjects: 0.059600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000617 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.900 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.9 MB.
+System memory in use after: 61.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1627.
+Total: 1.902700 ms (FindLiveObjects: 0.279100 ms CreateObjectMapping: 0.059100 ms MarkObjects: 1.512000 ms  DeleteObjects: 0.051500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000624 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.041 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.9 MB.
+System memory in use after: 61.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1630.
+Total: 2.217400 ms (FindLiveObjects: 0.352700 ms CreateObjectMapping: 0.094500 ms MarkObjects: 1.708800 ms  DeleteObjects: 0.055800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000959 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.527 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.9 MB.
+System memory in use after: 61.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1633.
+Total: 2.389800 ms (FindLiveObjects: 0.265300 ms CreateObjectMapping: 0.092900 ms MarkObjects: 1.968900 ms  DeleteObjects: 0.061100 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
