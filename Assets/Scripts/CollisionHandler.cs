@@ -14,15 +14,36 @@ public class CollisionHandler : MonoBehaviour
     AudioSource audioSource;
 
     bool isTransitioning = false;//to prevent moving the player or playing SFX while we loading the next scene
+    bool collisionDisabled = false;
 
     private void Start()
     {
         audioSource = GetComponent<AudioSource>();
     }
 
+    private void Update()
+    {
+        RespondToDebugKeys();
+    }
+
+    //God mode 
+    private void RespondToDebugKeys()
+    {
+        if (Input.GetKey(KeyCode.L))
+        {
+            LoadNextLevel();
+        }
+
+        else if (Input.GetKey(KeyCode.C))
+        {
+            //isTransitioning = !isTransitioning;  => this is another easy way
+            collisionDisabled = !collisionDisabled; //toggle collision
+        }
+    }
+
     void OnCollisionEnter(Collision collision)
     {
-        if (isTransitioning) return; //not to do any of the below things
+        if (isTransitioning || collisionDisabled) return; //not to do any of the below things
 
 
         switch (collision.gameObject.tag)
@@ -43,6 +64,7 @@ public class CollisionHandler : MonoBehaviour
     {
         //emit the particles
         successParticles.Play();
+
         isTransitioning = true;
         audioSource.Stop();//stop all sounds after success
         audioSource.PlayOneShot(successSound);
@@ -75,11 +97,8 @@ public class CollisionHandler : MonoBehaviour
             nextSceneIndx = 0;
         }
 
-        SceneManager.LoadScene(nextSceneIndx);
-
-        
+        SceneManager.LoadScene(nextSceneIndx);      
     }
-
 
     void ReloadLevel()
     {
